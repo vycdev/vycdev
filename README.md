@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋 I'm Sandu Victor and this is my github profile.
+###### ɢʟᴀᴅ ᴛᴏ ʜᴀᴠᴇ ʏᴏᴜ ʜᴇʀᴇ. (ᴡᴏᴜʟᴅɴ'ᴛ ᴍɪɴᴅ ᴀ ғᴏʟʟᴏᴡ ʜᴇʜᴇ)
 
-<!--
-**Vyctor661/Vyctor661** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About
+- [x] 😎 I’m currently working on [King Typer](https://github.com/Vyctor661/king-typer) and [Codify](https://github.com/Vyctor661/Codify) but mainly on [King Typer](https://github.com/Vyctor661/king-typer);
 
-Here are some ideas to get you started:
+- [x] 📫 How to reach me: Well you can reach me via discord (Vyctor661#2132) I'm spending most of my time on there with my amazing comunity but you can also find me on [Twitter](https://twitter.com/Vyctor661) (ᴡᴏᴜʟᴅɴ'ᴛ ᴍɪɴᴅ ᴀ ғᴏʟʟᴏᴡ ʜᴇʀᴇ ᴇɪᴛʜᴇʀ ʜᴇʜ);
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [x] ⚡ Well it's hard to learn about a person just from some description on a profile, if you want to get to know me better just contact me and we can talk. 😁;
+
+### Other
+
+- [ ] [Learn about recursion here](https://github.com/Vyctor661);
