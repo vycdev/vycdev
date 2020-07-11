@@ -1,4 +1,4 @@
-### Hi there my namne is Sandu Victor and this is my github profile. 👋
+### Hi there my name is Sandu Victor and this is my github profile. 👋
 ###### ɢʟᴀᴅ ᴛᴏ ʜᴀᴠᴇ ʏᴏᴜ ʜᴇʀᴇ. (ᴡᴏᴜʟᴅɴ'ᴛ ᴍɪɴᴅ ᴀ ғᴏʟʟᴏᴡ ʜᴇʜᴇ)
 
 #### About
