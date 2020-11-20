@@ -1,4 +1,4 @@
-### Hi there my name is Sandu Victor and this is my github profile. 👋
+### Hi there my name is Sandu Victor and this is my github profile. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ###### ɢʟᴀᴅ ᴛᴏ ʜᴀᴠᴇ ʏᴏᴜ ʜᴇʀᴇ. (ᴡᴏᴜʟᴅɴ'ᴛ ᴍɪɴᴅ ᴀ ғᴏʟʟᴏᴡ ʜᴇʜᴇ)
 
 #### About
