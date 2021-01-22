@@ -3,7 +3,7 @@
 #### About
 - [x] Worked on many projects, will work on many more and learn a lot more, currently the project I am proudest of is Codify, a discord bot. 
 
-- [x] How to reach me: Well you can reach me via discord ([Vyctor661#2132](https://discordapp.com/users/270972671490129921)) I'm spending most of my time on there but you can also find me on [Twitter](https://twitter.com/Vyctor661) sometimes (ᴡᴏᴜʟᴅɴ'ᴛ ᴍɪɴᴅ ᴀ ғᴏʟʟᴏᴡ ʜᴇʀᴇ ᴇɪᴛʜᴇʀ ʜᴇʜ);
+- [x] How to reach me: Well you can reach me via discord ([Vyctor661](https://discordapp.com/users/270972671490129921)) I'm spending most of my time on there but you can also find me on [Twitter](https://twitter.com/Vyctor661) sometimes (ᴡᴏᴜʟᴅɴ'ᴛ ᴍɪɴᴅ ᴀ ғᴏʟʟᴏᴡ ʜᴇʀᴇ ᴇɪᴛʜᴇʀ ʜᴇʜ);
 
 - [x] I mainly use TypeScript, React, Node, Koa, Knex and more. Tried other stuff too like Purescript, C, C#, C++. I try whatever I find interesting.
 
