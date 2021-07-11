@@ -5,6 +5,8 @@
 
 - [x] I mainly use TypeScript, React, Node, Koa, Knex and more. Tried other stuff too like Purescript, C, C#, C++. I try whatever I find interesting.
 
+- [x] Currently working on a project called KeySmash Mania, a rhythm typing game. 
+
 ### Other
 
 - [ ] [Learn about recursion here](https://github.com/Vyctor661);
