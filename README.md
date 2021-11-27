@@ -1,5 +1,5 @@
 
-![](https://img.shields.io/github/followers/vyctor661?label=Follow%20me&style=social) ![](https://img.shields.io/twitch/status/vycdev?style=social) ![](https://img.shields.io/twitter/follow/vyctor661?style=social)
+[![](https://img.shields.io/github/followers/vyctor661?label=Follow%20me&style=social)](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FVyctor661) [![](https://img.shields.io/twitch/status/vycdev?style=social)](https://www.twitch.tv/vycdev) [![](https://img.shields.io/twitter/follow/vyctor661?style=social)](https://twitter.com/Vyctor661)
 ### About me
 - [x] Worked on many projects, will work on many more and learn a lot more, currently the project I am proudest of is Codify, a discord bot. 
 
