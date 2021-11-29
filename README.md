@@ -9,4 +9,4 @@
 
 ### Other
 
-- [ ] [Learn about recursion here](https://github.com/Vyctor661);
+- [ ] [Learn about recursion here](https://github.com/vycdev);
