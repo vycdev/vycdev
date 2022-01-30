@@ -7,5 +7,6 @@
 - I mainly use TypeScript, React, Node, Koa, Knex and more. Tried other stuff too like Purescript, C, C#, C++. I try whatever I find interesting.
 
 ### Other
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=vycdev&show_icons=true&theme=dark&line_height=20&custom_title=Github+Stats&include_all_commits=true&count_private=true&hide_rank=true&disable_animations=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vycdev&layout=compact&langs_count=6&theme=dark&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=vycdev&show_icons=true&theme=dark&line_height=40&custom_title=General+Stats&include_all_commits=true&count_private=true&hide_rank=true&disable_animations=true)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/vycdev/langs?time_range=one_year&use_percent=True&include_private=True&theme=dark)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/vycdev/repos?time_range=one_year&include_private=True&theme=dark)](https://githubtrends.io)
