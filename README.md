@@ -4,7 +4,7 @@
 ### About me
 - You can see my most important projects in the pins list down below. 
 - You can reach me via discord ([vycdev](https://discordapp.com/users/270972671490129921)) I'm spending most of my time on there but you can also find me on [Twitter](https://twitter.com/vycdev) sometimes.
-- I mainly use TypeScript, React, Node, Koa, Knex and more. Tried other stuff too like Purescript, C, C#, C++. I try whatever I find interesting.
+- I mainly use TypeScript, React, Node, Koa, Knex, Prisma and more. Tried other stuff too like Purescript, C, C#, C++. I try whatever I find interesting.
 
 ### Other
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vycdev&show_icons=true&theme=dark&line_height=40&custom_title=General+Stats&include_all_commits=true&count_private=true&hide_rank=false&disable_animations=true)
