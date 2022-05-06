@@ -3,4 +3,4 @@
 ### About me
 - You can see my most important projects in the pins list down below. 
 - You can reach me via discord ([vycdev](https://discordapp.com/users/270972671490129921)) I'm spending most of my time on there but you can also find me on [Twitter](https://twitter.com/vycdev) sometimes.
-- I mainly use TypeScript, React, Node, Koa, Prisma and more. Tried other stuff too like Purescript, C, C#, C++. I try whatever I find interesting.
+- I am very familiar with front-end technologies, and a little bit of backend. I'm mostly familiar with: TypeScript, React, Node, Prisma, Knex, Koa, and more, but I have tried other unrelated things in the past too, like: C, C++, Purescript, Python. I will be able to learn anything very fast. 
