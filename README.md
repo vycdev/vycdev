@@ -3,7 +3,7 @@
 
 
 ![vycdev's Stats](https://github-readme-stats.vercel.app/api?username=vycdev&theme=dark&show_icons=true&hide_border=true&count_private=true&rank_icon=percentile&custom_title=About%20Me&hide_rank=true&card_width=300px&icon_color=3299fe&card_height=310px)
-![vycdev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vycdev&theme=dark&hide_border=true&card_width=530px&ring=3299fe&fire=3299fe&currStreakLabel=3299fe)
+![vycdev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vycdev&theme=dark&hide_border=true&card_width=540px&ring=3299fe&fire=3299fe&currStreakLabel=3299fe)
 <br />
 <img align="left" style="margin-right: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vycdev&theme=dark&show_icons=true&hide_border=true&layout=compact&card_width=305px">
  &nbsp; <b> About me </b> <br />
