@@ -9,4 +9,4 @@
 
 [![](https://img.shields.io/github/followers/vycdev?label=Follow%20me&style=social)](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fvycdev) [![](https://img.shields.io/twitch/status/vycdev?style=social)](https://www.twitch.tv/vycdev) ![](https://img.shields.io/twitter/follow/vycdev?style=social) ![](https://img.shields.io/youtube/channel/subscribers/UC9oN2nvJsq1AdybSs0ewT7Q?style=social) <br /> 
 --->
-![Metrics](./github-metrics.svg)
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
