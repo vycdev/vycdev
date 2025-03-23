@@ -10,3 +10,9 @@
 [![](https://img.shields.io/github/followers/vycdev?label=Follow%20me&style=social)](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fvycdev) [![](https://img.shields.io/twitch/status/vycdev?style=social)](https://www.twitch.tv/vycdev) ![](https://img.shields.io/twitter/follow/vycdev?style=social) ![](https://img.shields.io/youtube/channel/subscribers/UC9oN2nvJsq1AdybSs0ewT7Q?style=social) <br /> 
 --->
 <img src="/github-metrics.svg" alt="Metrics" width="100%">
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vycdev&repo=infinity-tic-tac-toe&theme=transparent&show_owner=true)](https://github.com/vycdev/infinity-tic-tac-toe)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=prescientmoon&repo=doffycup&theme=transparent&show_owner=true)](https://github.com/prescientmoon/doffycup)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CCodeCommunity&repo=Codify&theme=transparent&show_owner=true)](https://github.com/CCodeCommunity/Codify)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vycdev&repo=web-paint&theme=transparent&show_owner=true)](https://github.com/vycdev/web-paint)
