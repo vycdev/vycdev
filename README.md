@@ -16,4 +16,3 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=prescientmoon&repo=doffycup&theme=transparent&show_owner=true)](https://github.com/prescientmoon/doffycup)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CCodeCommunity&repo=Codify&theme=transparent&show_owner=true)](https://github.com/CCodeCommunity/Codify)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vycdev&repo=web-paint&theme=transparent&show_owner=true)](https://github.com/vycdev/web-paint)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vycdev&repo=falling-pickaxe&theme=transparent&show_owner=true)](https://github.com/vycdev/falling-pickaxe)
