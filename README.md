@@ -1,9 +1,5 @@
-### Social
-
 [![Support me on Patreon](https://img.shields.io/badge/Patreon-Support%20me-FF424D?style=flat&logo=patreon&logoColor=white)](https://patreon.com/vycdev)
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@vycdev) [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat&logo=x&logoColor=white)](https://twitter.com/vycdev) [![Blog](https://img.shields.io/badge/Blog-vycdev.com-2f2f2f?style=flat&logo=obsidian&logoColor=white)](https://vycdev.com)
-
-### Contributor rank
 
 [![committers.top badge](https://user-badge.committers.top/romania/vycdev.svg)](https://user-badge.committers.top/romania/vycdev)</br>
 [![committers.top badge](https://user-badge.committers.top/romania_public/vycdev.svg)](https://user-badge.committers.top/romania_public/vycdev)</br>
