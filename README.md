@@ -1,13 +1,6 @@
-# Top Contributor
-
-Public Commits Romania </br>
 [![committers.top badge](https://user-badge.committers.top/romania/vycdev.svg)](https://user-badge.committers.top/romania/vycdev)
-
-Public Contributions Romania: </br>
-[![committers.top badge](https://user-badge.committers.top/romania_public/vycdev.svg)](https://user-badge.committers.top/romania_public/vycdev)</br>
-
-All Contributions Romania: </br>
-[![committers.top badge](https://user-badge.committers.top/romania_private/vycdev.svg)](https://user-badge.committers.top/romania_private/vycdev)</br>
+[![committers.top badge](https://user-badge.committers.top/romania_public/vycdev.svg)](https://user-badge.committers.top/romania_public/vycdev)
+[![committers.top badge](https://user-badge.committers.top/romania_private/vycdev.svg)](https://user-badge.committers.top/romania_private/vycdev)
 
 
 # Pinned Projects
