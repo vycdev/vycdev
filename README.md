@@ -1,7 +1,8 @@
-[![committers.top badge](https://user-badge.committers.top/romania/vycdev.svg)](https://user-badge.committers.top/romania/vycdev)</br>
-[![committers.top badge](https://user-badge.committers.top/romania_public/vycdev.svg)](https://user-badge.committers.top/romania_public/vycdev)</br>
-[![committers.top badge](https://user-badge.committers.top/romania_private/vycdev.svg)](https://user-badge.committers.top/romania_private/vycdev)</br>
+[![Support me on Patreon](https://img.shields.io/badge/Patreon-Become%20a%20Patron-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/vycdev)
 
+[![committers.top badge](https://user-badge.committers.top/romania/vycdev.svg)](https://user-badge.committers.top/romania/vycdev)
+[![committers.top badge](https://user-badge.committers.top/romania_public/vycdev.svg)](https://user-badge.committers.top/romania_public/vycdev)
+[![committers.top badge](https://user-badge.committers.top/romania_private/vycdev.svg)](https://user-badge.committers.top/romania_private/vycdev)
 
 # Pinned Projects
 
