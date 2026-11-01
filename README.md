@@ -15,6 +15,7 @@ Software engineer with a lot of hobbies. Creator of [Kromacut](https://kromacut.
 
 - **[Kromacut](https://github.com/vycdev/Kromacut)** - Turn images into stacked, color-layered 3D prints
 - **[Todo+2](https://github.com/vycdev/vscode-todo-plus-two)** - Lightweight, plain-text todo manager for VS Code, continuing the original Todo+
+- **[Isometric Contributions Plus](https://github.com/vycdev/isometric-contributions-plus)** - My fork of the browser extension that turns GitHub contribution charts into isometric pixel art
 - **[Morpheus](https://github.com/vycdev/Morpheus)** - Discord bot with generic functionalities, also sentient ([archive](https://github.com/vycdev/Morpheus-archive))
 - **[MemHack](https://github.com/vycdev/MemHack)** - A simple Cheat Engine clone in C#
 - **[Falling Pickaxe](https://github.com/vycdev/falling-pickaxe)** - Game inspired by YouTube Shorts livestreams
